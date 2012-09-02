@@ -18,8 +18,11 @@ C:\github>dir
  Directory of C:\github
 
 09/02/2012  12:08 PM    <DIR>          .
+
 09/02/2012  12:08 PM    <DIR>          ..
+
 09/02/2012  12:08 PM             6,723 fontfuzzer.py
+
 09/02/2012  12:09 PM    <DIR>          fonts
             
                1 File(s)          6,723 bytes
@@ -28,9 +31,7 @@ C:\github>dir
 C:\github>python fontfuzzer.py fonts\unifont.ttf
 
 GNU Unifont
-
 0
 
 GNU Unifont
-
 10
