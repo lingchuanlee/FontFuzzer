@@ -28,9 +28,9 @@ C:\github>dir
 C:\github>python fontfuzzer.py fonts\unifont.ttf
 
 GNU Unifont
+
 0
+
 GNU Unifont
+
 10
-GNU Unifont
-20
-GNU Unifont
