@@ -5,6 +5,7 @@ The FontFuzzer is created to fuzz the TrueType Font (TTF) into different sizes w
 
 Extra python packages needed:
 1. pywin32-216.win32-py2.7
+
 2. numpy-1.7.0b1-win32-superpack-python2.7
 3. fonttools-2.3
 4. comtypes-0.6.2.win32
