@@ -11,22 +11,6 @@ Extra python packages needed:
 4. comtypes-0.6.2.win32
 
 Usage:
-C:\github>dir
- Volume in drive C has no label.
- Volume Serial Number is B0DD-C53C
-
- Directory of C:\github
-
-09/02/2012  12:08 PM    <DIR>          .
-
-09/02/2012  12:08 PM    <DIR>          ..
-
-09/02/2012  12:08 PM             6,723 fontfuzzer.py
-
-09/02/2012  12:09 PM    <DIR>          fonts
-            
-               1 File(s)          6,723 bytes
-               3 Dir(s)  32,938,553,344 bytes free
 
 C:\github>python fontfuzzer.py fonts\unifont.ttf
 
